@@ -1,4 +1,4 @@
-DS1 — Customer Churn Prediction & Analysis
+# Customer Churn Prediction & Analysis
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
